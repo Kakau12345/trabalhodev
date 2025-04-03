@@ -1,0 +1,2 @@
+o codigo tem um funcionamento bem simples como 1 tela de introdução e outra de jogo, o jogo se inicia com 0 pontos e vai escalando, a cada meta batida, ex 250 pontos o jogo vai para o nivel do jogo e fica mais dificil, e apos os 500 pontos o jogo vai para o nivel 3 ficando mais dificil ainda, 
+ele e bem simples de ler, ja que ele puxa as variaveis, a css da tela do jogo e por fim o comando centrar do jogo que e de certa forma de facil interpretação, ja que o codigo ja esta todo digitalizado.
